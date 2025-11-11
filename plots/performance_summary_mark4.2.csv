@@ -1,0 +1,11 @@
+# Performance Summary for mark4.2
+
+Metric,Score
+Accuracy,0.75
+ROC AUC,0.8243000000000001
+
+# Class-wise Metrics
+
+Class,Precision,Recall,F1-Score
+dragging,0.6666666666666666,1.0,0.8
+others,1.0,0.5,0.6666666666666666
